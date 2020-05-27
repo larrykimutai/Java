@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Larry Langat\Desktop\Eclips Crap\.metadata\.plugins\org.eclipse.jdt.core
+3271193799.index
+2450756007.index
